@@ -9,7 +9,7 @@ This repository contains the source code and resources for an advanced Power BI 
 - **Advanced Formatting**: Leveraged advanced formatting options to enhance the visual appeal and usability of the dashboard.
 - **Conditional Formatting**: Implemented conditional formatting to highlight KPIs and identify trends at a glance.
 - **Data Transformation**: Utilized various techniques in Power Query Editor to clean, reshape, and model the data for analysis.
-- **Date Modeling**: Enhanced date modeling to enable time-based analysis and trend visualization.
+- **Date Modeling**: Enhanced data modeling to enable time-based analysis and trend visualization.
 - **Interactive Slicers**: Created new slicers and synced them for improved interactivity and filtering options.
 - **DAX Functions**: Applied a wide range of DAX functions, including related value and aggregation functions, for complex calculations.
 - **Visualization Techniques**: Explored different visualization techniques to present data in a compelling manner.
