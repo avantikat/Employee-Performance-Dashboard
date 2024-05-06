@@ -28,3 +28,13 @@ This repository contains the source code and resources for an advanced Power BI 
 - **Visualizations**: Contains screenshots or images of the dashboard.
 - **Documentation**: Includes project documentation, README files, and any additional resources.
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository: `git clone [repository_link]`
+2. Open the project in Power BI Desktop.
+3. Explore the dashboard visuals and interact with the slicers for filtering options.
+4. Review the documentation for additional insights and details.
+
+
